@@ -4,4 +4,3 @@ def reverse_each_word(phraseString)
     word.reverse!
   end
 end
-  
